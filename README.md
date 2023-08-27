@@ -16,4 +16,3 @@ _ How to pull updates
 _ How to create a branch
 _ How to merge branches
 _ How to work as collaborators on a project
-_ Which files should and which files should not appear in your repo
